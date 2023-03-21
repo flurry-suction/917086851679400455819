@@ -1,0 +1,186 @@
+{
+  "project_info": {
+    "project_number": "435009632291",
+    "project_id": "arrradev-ecd21",
+    "storage_bucket": "arrradev-ecd21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435009632291:android:7867294b1aaa175d641996",
+        "android_client_info": {
+          "package_name": "com.grafika.cek.nip_asn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435009632291-kv4le05n22imhnktbo9um63cd3rmka7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeJ4Ncw8FpUp_Q9VBCVBmv0uM-rlWoUw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435009632291-kv4le05n22imhnktbo9um63cd3rmka7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3853458640357917~1396235703"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435009632291:android:78f91d63b15ae843641996",
+        "android_client_info": {
+          "package_name": "com.grafika.cek_saldo_atm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435009632291-kv4le05n22imhnktbo9um63cd3rmka7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeJ4Ncw8FpUp_Q9VBCVBmv0uM-rlWoUw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435009632291-kv4le05n22imhnktbo9um63cd3rmka7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435009632291:android:320a289dff6e8fbf641996",
+        "android_client_info": {
+          "package_name": "com.grafika.cek_saldo_claim_bpjs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435009632291-kv4le05n22imhnktbo9um63cd3rmka7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeJ4Ncw8FpUp_Q9VBCVBmv0uM-rlWoUw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435009632291-kv4le05n22imhnktbo9um63cd3rmka7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435009632291:android:17dfe0641a59ddf2641996",
+        "android_client_info": {
+          "package_name": "com.grafika.cek_saldo_mandiri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435009632291-kv4le05n22imhnktbo9um63cd3rmka7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeJ4Ncw8FpUp_Q9VBCVBmv0uM-rlWoUw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435009632291-kv4le05n22imhnktbo9um63cd3rmka7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435009632291:android:d5dd66d6ac366fe3641996",
+        "android_client_info": {
+          "package_name": "com.grafika.daftar_shopee_paylater_tanpa_ktp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435009632291-kv4le05n22imhnktbo9um63cd3rmka7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeJ4Ncw8FpUp_Q9VBCVBmv0uM-rlWoUw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435009632291-kv4le05n22imhnktbo9um63cd3rmka7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3853458640357917~8184719922"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435009632291:android:ad78ccc0ec09a646641996",
+        "android_client_info": {
+          "package_name": "com.grafika.nfc_cek_saldo_atm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435009632291-kv4le05n22imhnktbo9um63cd3rmka7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeJ4Ncw8FpUp_Q9VBCVBmv0uM-rlWoUw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435009632291-kv4le05n22imhnktbo9um63cd3rmka7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
